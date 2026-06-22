@@ -11016,7 +11016,7 @@ body {
   }
   #mainNav .navbar-brand {
     padding: 0.5rem 0;
-    color: rgba(255, 255, 255, 0.3);
+    color: rgba(255, 255, 255, 0.8);
   }
   #mainNav .nav-link {
     transition: none;
@@ -11024,7 +11024,7 @@ body {
     color: rgba(255, 255, 255, 0.5);
   }
   #mainNav .nav-link:hover {
-    color: rgba(255, 255, 255, 0.9);
+    color: rgba(255, 255, 255, 0.4);
   }
   #mainNav .nav-link:active {
     color: #fff;
@@ -11101,8 +11101,8 @@ body {
     padding: 0;
   }
   .masthead h1, .masthead .h1 {
-    font-size: 5.5rem;
-    line-height: 5.5rem;
+    font-size: 4.5rem;
+    line-height: 4.5rem;
     letter-spacing: 0.8rem;
   }
   .masthead h2, .masthead .h2 {
