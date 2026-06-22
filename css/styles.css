@@ -11024,7 +11024,7 @@ body {
     color: rgba(255, 255, 255, 0.5);
   }
   #mainNav .nav-link:hover {
-    color: rgba(255, 255, 255, 0.4);
+    color: rgba(255, 255, 255, 0.2);
   }
   #mainNav .nav-link:active {
     color: #fff;
@@ -11107,7 +11107,7 @@ body {
   }
   .masthead h2, .masthead .h2 {
     max-width: 30rem;
-    font-size: 1.75rem;
+    font-size: 1.35rem;
   }
 }
 
