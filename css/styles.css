@@ -11133,13 +11133,13 @@ body {
     border-left: 0.5rem solid #64a19d;
   }
 }
-.projects-section .project-text {
+.projects-section .second-text {
   padding: 2rem;
   font-size: 80%;
   border-left: 0.5rem solid #e6a0c1;
 }
 @media (min-width: 992px) {
-  .projects-section .project-text {
+  .projects-section .second-text {
     padding: 5rem;
   }
 }
