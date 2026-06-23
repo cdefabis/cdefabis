@@ -11143,6 +11143,16 @@ body {
     padding: 5rem;
   }
 }
+.projects-section .third-text {
+  padding: 2rem;
+  font-size: 80%;
+  border-left: 0.5rem solid #db78c9;
+}
+@media (min-width: 992px) {
+  .projects-section .third-text {
+    padding: 5rem;
+  }
+}
 
 .signup-section {
   padding: 10rem 0;
