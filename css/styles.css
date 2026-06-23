@@ -11125,6 +11125,7 @@ body {
 }
 .projects-section .featured-text {
   padding: 2rem;
+  font-size: 80%
 }
 @media (min-width: 992px) {
   .projects-section .featured-text {
