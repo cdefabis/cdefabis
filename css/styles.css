@@ -11140,7 +11140,7 @@ body {
 @media (min-width: 992px) {
   .projects-section .second-text {
     padding: 2 0 0 0rem;
-    border-right: 0.5rem2 solid #e6a0c1;
+    border-right: 0.5rem solid #e6a0c1;
   }
 }
 .projects-section .third-text {
