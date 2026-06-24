@@ -11125,7 +11125,7 @@ body {
 }
 .projects-section .featured-text {
   padding: 2rem;
-  font-size: 77%
+  font-size: 75%
 }
 @media (min-width: 992px) {
   .projects-section .featured-text {
@@ -11135,7 +11135,7 @@ body {
 }
 .projects-section .second-text {
   padding: 2rem;
-  font-size: 77%;
+  font-size: 75%;
 }
 @media (min-width: 992px) {
   .projects-section .second-text {
@@ -11145,7 +11145,7 @@ body {
 }
 .projects-section .third-text {
   padding: 2rem;
-  font-size: 77%;
+  font-size: 75%;
 }
 @media (min-width: 992px) {
   .projects-section .third-text {
