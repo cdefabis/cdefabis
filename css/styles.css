@@ -11129,7 +11129,7 @@ body {
 }
 @media (min-width: 992px) {
   .projects-section .featured-text {
-    padding: 0 2rem 0 2rem;
+    padding: 0 2rem 1rem 2rem;
     border-left: 0.5rem solid #32928c;
   }
 }
@@ -11149,7 +11149,7 @@ body {
 }
 @media (min-width: 992px) {
   .projects-section .third-text {
-    padding: 0 2rem 0 2rem;
+    padding: 1rem 2rem 0 2rem;
     border-left: 0.5rem solid #cf70dd;
   }
 }
