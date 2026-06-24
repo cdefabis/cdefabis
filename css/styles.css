@@ -11113,7 +11113,7 @@ body {
 }
 
 .about-section {
-  padding-top: 10rem;
+  padding-top: 5rem;
   background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
 }
 .about-section p {
@@ -11124,7 +11124,7 @@ body {
   padding: 5rem 0;
 }
 .projects-section .featured-text {
-  padding: 2rem;
+  padding: 2rem 0;
   font-size: 80%
 }
 @media (min-width: 992px) {
