@@ -11121,7 +11121,7 @@ body {
 }
 
 .projects-section {
-  padding: 10rem 0;
+  padding: 5rem 0;
 }
 .projects-section .featured-text {
   padding: 2rem;
@@ -11139,7 +11139,7 @@ body {
 }
 @media (min-width: 992px) {
   .projects-section .second-text {
-    padding: 0 0 0 2rem;
+    padding: 2 0 0 0rem;
     border-right: 0.5rem solid #e6a0c1;
   }
 }
