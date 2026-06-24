@@ -11129,7 +11129,7 @@ body {
 }
 @media (min-width: 992px) {
   .projects-section .featured-text {
-    padding: 0 0 0 2rem;
+    padding: 0 2 0 2rem;
     border-left: 0.5rem solid #32928c;
   }
 }
