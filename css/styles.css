@@ -11126,11 +11126,11 @@ body {
 .projects-section .featured-text {
   padding: 2rem;
   font-size: 80%
-  border-right: 0.5rem solid #32928c;
 }
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
+    border-left: 0.5rem solid #32928c;
   }
 }
 .projects-section .second-text {
