@@ -11134,8 +11134,8 @@ body {
   }
 }
 .projects-section .second-text {
-  padding: 2rem;
-  font-size: 76.1%;
+  padding: 3rem;
+  font-size: 77%;
 }
 @media (min-width: 992px) {
   .projects-section .second-text {
@@ -11145,7 +11145,7 @@ body {
 }
 .projects-section .third-text {
   padding: 2rem;
-  font-size: 78%;
+  font-size: 79%;
 }
 @media (min-width: 992px) {
   .projects-section .third-text {
